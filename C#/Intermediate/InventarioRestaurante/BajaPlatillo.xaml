@@ -1,0 +1,16 @@
+﻿<Window x:Class="InventarioRestaurante.BajaPlatillo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InventarioRestaurante"
+        mc:Ignorable="d"
+        Title="BajaPlatillo" Height="210.233" Width="302.343" Background="#FF4E4E4E">
+    <Grid>
+        <TextBox x:Name="txtId_Platillo" HorizontalAlignment="Left" Height="29" Margin="127,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126" RenderTransformOrigin="-1.443,-1.675" Background="#FF383838" Foreground="#FFBCBCBC" FontSize="14" TextAlignment="Center" SelectionBrush="#FFCDFFB3"/>
+        <Label Content="ID Platillo" HorizontalAlignment="Left" Margin="26,66,0,0" VerticalAlignment="Top" FontSize="14" Foreground="#FFDADADA"/>
+        <Button x:Name="btBajaPlatillo" Content="Baja" HorizontalAlignment="Left" Margin="160,117,0,0" VerticalAlignment="Top" Width="58" Height="26" Click="btBajaIngrediente_Click" Background="#FFCDFFB3" FontSize="14" FontFamily="Segoe UI Semibold"/>
+        <Button x:Name="btRegresar" Content="Atras" HorizontalAlignment="Left" Margin="10,146,0,0" VerticalAlignment="Top" Width="66" Height="25" Click="Button_Click" FontFamily="Segoe UI Light" Background="#FFD1B3FF"/>
+        <Label x:Name="lbId_Restaurante_Copy" Content="Baja de platillo." HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="16" Height="43" Foreground="#FFDADADA" Margin="83,18,0,0" FontFamily="Segoe UI Semibold"/>
+    </Grid>
+</Window>

@@ -1,0 +1,213 @@
+C:\Users\sdist\Documents\Estephania DAI\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.exe.config
+C:\Users\sdist\Documents\Estephania DAI\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.exe
+C:\Users\sdist\Documents\Estephania DAI\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.pdb
+C:\Users\sdist\Documents\Estephania DAI\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.AssemblyReference.cache
+C:\Users\sdist\Documents\Estephania DAI\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InicioSesion.g.cs
+C:\Users\sdist\Documents\Estephania DAI\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\MainWindow.g.cs
+C:\Users\sdist\Documents\Estephania DAI\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\SeleccionarOpciones.g.cs
+C:\Users\sdist\Documents\Estephania DAI\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\App.g.cs
+C:\Users\sdist\Documents\Estephania DAI\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante_MarkupCompile.cache
+C:\Users\sdist\Documents\Estephania DAI\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante_MarkupCompile.lref
+C:\Users\sdist\Documents\Estephania DAI\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InicioSesion.baml
+C:\Users\sdist\Documents\Estephania DAI\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\MainWindow.baml
+C:\Users\sdist\Documents\Estephania DAI\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\SeleccionarOpciones.baml
+C:\Users\sdist\Documents\Estephania DAI\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.g.resources
+C:\Users\sdist\Documents\Estephania DAI\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.Properties.Resources.resources
+C:\Users\sdist\Documents\Estephania DAI\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.GenerateResource.cache
+C:\Users\sdist\Documents\Estephania DAI\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\sdist\Documents\Estephania DAI\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.exe
+C:\Users\sdist\Documents\Estephania DAI\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.pdb
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.AssemblyReference.cache
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaIngrediente.g.cs
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaPlatillo.g.cs
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaIngrediente.g.cs
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaPlatillo.g.cs
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\BusquedaIngrediente.g.cs
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\Cuenta.g.cs
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InicioSesion.g.cs
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\MainWindow.g.cs
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\SeleccionarOpciones.g.cs
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\App.g.cs
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante_MarkupCompile.cache
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante_MarkupCompile.lref
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.exe
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.pdb
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.exe.config
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.exe
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.pdb
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InicioSesion.baml
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\MainWindow.baml
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\SeleccionarOpciones.baml
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaIngrediente.baml
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaPlatillo.baml
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaIngrediente.baml
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaPlatillo.baml
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\BusquedaIngrediente.baml
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\Cuenta.baml
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.g.resources
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.Properties.Resources.resources
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.GenerateResource.cache
+C:\Users\sdist\Documents\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.CoreCompileInputs.cache
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.exe.config
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.exe
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.pdb
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.AssemblyReference.cache
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaIngrediente.g.cs
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaPlatillo.g.cs
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaIngrediente.g.cs
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaPlatillo.g.cs
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\BusquedaIngrediente.g.cs
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\Cuenta.g.cs
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InicioSesion.g.cs
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\MainWindow.g.cs
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\SeleccionarOpciones.g.cs
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\App.g.cs
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante_MarkupCompile.cache
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante_MarkupCompile.lref
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaIngrediente.baml
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaPlatillo.baml
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaIngrediente.baml
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaPlatillo.baml
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\BusquedaIngrediente.baml
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\Cuenta.baml
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InicioSesion.baml
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\MainWindow.baml
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\SeleccionarOpciones.baml
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.g.resources
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.Properties.Resources.resources
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.GenerateResource.cache
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.CoreCompileInputs.cache
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.exe
+D:\Descargas\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.pdb
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaIngrediente.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaPlatillo.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaIngrediente.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaPlatillo.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\BusquedaIngrediente.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\Cuenta.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InicioSesion.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\MainWindow.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\ModificarIngrediente.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\SeleccionarOpciones.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\App.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante_MarkupCompile.cache
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante_MarkupCompile.lref
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.exe
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.pdb
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.exe.config
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.exe
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.pdb
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaIngrediente.baml
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaPlatillo.baml
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaIngrediente.baml
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaPlatillo.baml
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\BusquedaIngrediente.baml
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\Cuenta.baml
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InicioSesion.baml
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\MainWindow.baml
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\ModificarIngrediente.baml
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\SeleccionarOpciones.baml
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.g.resources
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.Properties.Resources.resources
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Escritorio\DAI JEEG\DAI JEEG\ProyectoDAI-1\ProyectoDAI\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.exe.config
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.exe
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.pdb
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.AssemblyReference.cache
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaIngrediente.g.cs
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaPlatillo.g.cs
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaIngrediente.g.cs
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaPlatillo.g.cs
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\BusquedaIngrediente.g.cs
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\Cuenta.g.cs
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InicioSesion.g.cs
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\MainWindow.g.cs
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\ModificarIngrediente.g.cs
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\SeleccionarOpciones.g.cs
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\App.g.cs
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante_MarkupCompile.cache
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante_MarkupCompile.lref
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaIngrediente.baml
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaPlatillo.baml
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaIngrediente.baml
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaPlatillo.baml
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\BusquedaIngrediente.baml
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\Cuenta.baml
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InicioSesion.baml
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\MainWindow.baml
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\ModificarIngrediente.baml
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\SeleccionarOpciones.baml
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.g.resources
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.Properties.Resources.resources
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.GenerateResource.cache
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.exe
+C:\Users\EMARTINEMAC\Downloads\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.pdb
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.exe.config
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.exe
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.pdb
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.AssemblyReference.cache
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaIngrediente.g.cs
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaPlatillo.g.cs
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaIngrediente.g.cs
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaPlatillo.g.cs
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\BusquedaIngrediente.g.cs
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\Cuenta.g.cs
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InicioSesion.g.cs
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\MainWindow.g.cs
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\ModificarIngrediente.g.cs
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\SeleccionarOpciones.g.cs
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\App.g.cs
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante_MarkupCompile.cache
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante_MarkupCompile.lref
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaIngrediente.baml
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaPlatillo.baml
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaIngrediente.baml
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaPlatillo.baml
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\BusquedaIngrediente.baml
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\Cuenta.baml
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InicioSesion.baml
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\MainWindow.baml
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\ModificarIngrediente.baml
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\SeleccionarOpciones.baml
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.g.resources
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.Properties.Resources.resources
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.GenerateResource.cache
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.CoreCompileInputs.cache
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.exe
+D:\Descargas\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.pdb
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.exe.config
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.exe
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\bin\Debug\InventarioRestaurante.pdb
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaIngrediente.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaPlatillo.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaIngrediente.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaPlatillo.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\BusquedaIngrediente.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\Cuenta.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InicioSesion.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\MainWindow.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\ModificarIngrediente.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\SeleccionarOpciones.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\App.g.cs
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante_MarkupCompile.cache
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante_MarkupCompile.lref
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaIngrediente.baml
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\AltaPlatillo.baml
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaIngrediente.baml
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\BajaPlatillo.baml
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\BusquedaIngrediente.baml
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\Cuenta.baml
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InicioSesion.baml
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\MainWindow.baml
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\ModificarIngrediente.baml
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\SeleccionarOpciones.baml
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.g.resources
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.Properties.Resources.resources
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.exe
+C:\Users\andre\OneDrive\Escritorio\DAI\Proyecto_1\ProcesoProyectoDAI_1\InventarioRestauranteBien\InventarioRestaurante\InventarioRestaurante\InventarioRestaurante\obj\Debug\InventarioRestaurante.pdb

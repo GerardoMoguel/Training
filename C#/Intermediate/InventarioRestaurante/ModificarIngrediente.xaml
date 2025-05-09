@@ -1,0 +1,29 @@
+﻿<Window x:Class="InventarioRestaurante.ModificarIngrediente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InventarioRestaurante"
+        mc:Ignorable="d"
+        Title="ModificarIngrediente" Height="486.529" Width="373.35" Background="#FF4E4E4E">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label x:Name="lbNombreIngre" Content="Nombre" HorizontalAlignment="Left" Margin="61,187,0,0" VerticalAlignment="Top" Foreground="#FFDADADA" FontSize="14"/>
+        <Label x:Name="lbCantIngre" Content="Cantidad" HorizontalAlignment="Left" Margin="61,233,0,0" VerticalAlignment="Top" Foreground="#FFDADADA" FontSize="14"/>
+        <TextBox x:Name="txtNombre" HorizontalAlignment="Left" Height="23" Margin="196,191,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="14" TextAlignment="Center" Background="#FF383838" Foreground="#FFBCBCBC" SelectionBrush="#FFFFB3D9"/>
+        <TextBox x:Name="txtCantidad" HorizontalAlignment="Left" Height="23" Margin="196,237,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="14" TextAlignment="Center" Background="#FF383838" Foreground="#FFBCBCBC" SelectionBrush="#FFFFB3D9"/>
+        <Button x:Name="btModificar" Content="Modificar" HorizontalAlignment="Left" Margin="215,378,0,0" VerticalAlignment="Top" Width="80" Click="btDarDeAlta_Click" Background="#FFFFB3D9" Height="30" FontSize="14" FontFamily="Segoe UI Semibold"/>
+        <Label x:Name="lbOrigen" Content="Descripcion" HorizontalAlignment="Left" Margin="61,278,0,0" VerticalAlignment="Top" Foreground="#FFDADADA" FontSize="14" Height="27"/>
+        <Label x:Name="lbID" Content="ID Ingrediente" HorizontalAlignment="Left" Margin="61,140,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.69,-1.388" Background="{x:Null}" Foreground="White" FontSize="14"/>
+        <Label x:Name="lbPrecio" Content="Precio" HorizontalAlignment="Left" Margin="61,324,0,0" VerticalAlignment="Top" Foreground="#FFDADADA" FontSize="14"/>
+        <TextBox x:Name="txtDescripcion" HorizontalAlignment="Left" Height="23" Margin="196,282,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FF383838" Foreground="#FFBCBCBC" SelectionBrush="#FFFFB3D9" TextAlignment="Center"/>
+        <TextBox x:Name="txtID" HorizontalAlignment="Left" Height="23" Margin="196,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="14" TextAlignment="Center" Background="#FF4F4F4F" Foreground="#FFBCBCBC" SelectionBrush="#FFFFB3D9" BorderBrush="White" TextChanged="txtID_TextChanged"/>
+        <TextBox x:Name="txtPrecio" HorizontalAlignment="Left" Height="23" Margin="196,328,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="14" TextAlignment="Center" Background="#FF383838" Foreground="#FFBCBCBC" SelectionBrush="#FFFFB3D9"/>
+        <Button x:Name="btn_atras" Content="Atras" HorizontalAlignment="Left" Margin="10,421,0,0" VerticalAlignment="Top" Width="66" Click="btn_atras_Click" Height="25" Background="#FFD1B3FF"/>
+        <Label x:Name="label1" Content="         Por favor, introduzca el identificador único &#xA;del ingrediente y proporcione exclusivamente los datos&#xA; correspondientes a los atributos que desee modificar." Margin="37,53,42.2,0" VerticalAlignment="Top" Height="76" ScrollViewer.HorizontalScrollBarVisibility="Visible" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Center" FontFamily="Segoe UI Light" RenderTransformOrigin="0.5,0.5" Background="{x:Null}" AutomationProperties.IsColumnHeader="True" AutomationProperties.IsOffscreenBehavior="Onscreen" AutomationProperties.IsRequiredForForm="True" Foreground="#FFDADADA" />
+        <Label x:Name="lbId_Restaurante_Copy" Content="Modificar ingrediente." HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="16" Height="43" Foreground="#FFDADADA" Margin="100,16,0,0" FontFamily="Segoe UI Semibold"/>
+
+    </Grid>
+</Window>

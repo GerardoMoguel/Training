@@ -1,0 +1,22 @@
+﻿<Window x:Class="InventarioRestaurante.SeleccionarOpciones"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InventarioRestaurante"
+        mc:Ignorable="d"
+        Title="SeleccionarOpciones" Height="302.542" Width="523.016" Background="#FF4E4E4E">
+    <Grid>
+        <Button x:Name="btAltaP" Content="Alta Platillo" HorizontalAlignment="Left" Margin="29,55,0,0" VerticalAlignment="Top" Width="123" Click="Button_Click" Height="41" Background="#FFFCFFB3" FontFamily="Segoe UI Semibold" FontSize="14"/>
+        <Button x:Name="btBaja" Content="Baja Platillo" HorizontalAlignment="Left" Margin="29,126,0,0" VerticalAlignment="Top" Width="123" Height="42" Click="Button_Click_1" FontFamily="Segoe UI Semibold" Background="#FFCDFFB3" FontSize="14"/>
+        <Button x:Name="btBusqueda" Content="Busqueda Ingrediente" HorizontalAlignment="Left" Margin="345,126,0,0" VerticalAlignment="Top" Width="150" Height="42" Click="btBusqueda_Click" FontFamily="Segoe UI Semibold" Background="#FFFFB3B3" FontSize="14"/>
+        <Button x:Name="btAltaIngre" Content="Alta Ingrediente" HorizontalAlignment="Left" Margin="185,55,0,0" VerticalAlignment="Top" Width="127" Height="41" Click="btAltaIngre_Click" FontFamily="Segoe UI Semibold" Background="#FFB3F5FF" FontSize="14"/>
+        <Button x:Name="btBajaIngre" Content="Baja ingrediente" HorizontalAlignment="Left" Margin="185,126,0,0" VerticalAlignment="Top" Width="127" Height="42" Click="btBajaIngre_Click" FontFamily="Segoe UI Semibold" Background="#FFB3C4FF" FontSize="14"/>
+        <Button x:Name="btCuenta" Content="Empezar cuenta" HorizontalAlignment="Left" Margin="185,192,0,0" VerticalAlignment="Top" Width="127" Height="41" Click="btCuenta_Click" FontFamily="Segoe UI Semibold" Background="#FFE8E8E8" FontSize="14"/>
+        <Button x:Name="btSalir" Content="Cerrar app" HorizontalAlignment="Left" Margin="441,238,0,0" VerticalAlignment="Top" Width="66" Height="25" Click="btSalir_Click" FontFamily="Segoe UI Light" Background="#FFEDEDED"/>
+        <Button x:Name="btn_atras" Content="Atras" HorizontalAlignment="Left" Margin="10,238,0,0" VerticalAlignment="Top" Width="66" Click="btn_atras_Click" Height="25" Background="#FFD1B3FF" FontFamily="Segoe UI Light"/>
+        <Button x:Name="btnModificarIng" Content="Modificar Ingrediente" HorizontalAlignment="Left" Margin="345,55,0,0" VerticalAlignment="Top" Width="150" Height="41" Click="btnModificarIng_Click" FontFamily="Segoe UI Semibold" Background="#FFFFB3D9" FontSize="14"/>
+        <Label x:Name="lbId_Restaurante_Copy" Content="Funcionalidades." HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="18" Height="43" Foreground="#FFDADADA" Margin="176,10,0,0" FontFamily="Segoe UI Semibold" Width="155"/>
+
+    </Grid>
+</Window>
