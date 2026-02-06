@@ -85,8 +85,8 @@ public class TreesStudy {
         q.add(root);
         Node<T> current;
         Deque<T> lst = new ArrayDeque<>();
-        int ccc = 0;
-        int ccf = 0;
+        int ccc = 0;//child counter current lvl
+        int ccf = 0;//child counter future lvl (next one)
         int zc  = 0;
         while(!q.isEmpty()){
             current = q.poll();
@@ -112,6 +112,10 @@ public class TreesStudy {
             ccc--;
         }
     };
+    
+    public static <T> void printTreeDFS(Node<T> root){
+        
+    }
     
     public static void main(String[] args) {
         Node <Integer> a = new Node<> (12);
