@@ -114,7 +114,17 @@ public class TreesStudy {
     };
     
     public static <T> void printTreeDFS(Node<T> root){
-        
+        Deque <Node<T>> st = new ArrayDeque<>(); //stack for the DFS
+        st.addLast(root);
+        List<Node<T>> children;
+        while(!st.isEmpty()){
+            Node<T> current = st.pollLast();
+            System.out.print(current.getData()+" ");
+            children=current.getChildren();
+            for(int i=children.size()-1;i>=0;i--){
+                st.addLast(children.get(i));
+            }
+        }
     }
     
     public static void main(String[] args) {
@@ -142,8 +152,9 @@ public class TreesStudy {
         System.out.println(addNode('B','F',b));
         System.out.println(addNode('D','G',b));
         System.out.println(addNode('D','H',b));
-        TreesStudy.printTreeLvlZZBFS(b);
-
+        TreesStudy.printTreeLvlBFS(b);
+        
+        TreesStudy.printTreeDFS(b);
 
 
         
